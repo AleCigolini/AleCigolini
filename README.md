@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alessandro Cigolini</h1>
-<h3 align="center">FullStack developer</h3>
+<h3 align="center">FullStack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alecigolini&label=Profile%20views&color=0e75b6&style=flat" alt="alecigolini" /> </p>
 
